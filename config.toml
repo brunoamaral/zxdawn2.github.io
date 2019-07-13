@@ -108,4 +108,4 @@ disablePathToLower         = true
   username = "zxdawn2"
   repository = "zxdawn2.github.io"
   branch = "source"
-  notifications = false
+  notifications = true
