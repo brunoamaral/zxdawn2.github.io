@@ -29,10 +29,10 @@
 
     {{ if .Site.Params.staticman.notifications }}
     <fieldset>
-      <div>
-        <input type="checkbox" name="options[subscribe]" value="email">
+      <label>
+        <input type="checkbox" name="options[subscribe]" value="email" />
         Send me an email when someone comments on this post.
-      </div>
+      </label>
     </fieldset>
     {{ end }}
 
