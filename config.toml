@@ -107,5 +107,5 @@ disablePathToLower         = true
 [params.staticman]
   username = "zxdawn2"
   repository = "zxdawn2.github.io"
-  branch = "master"
+  branch = "source"
   notifications = false
