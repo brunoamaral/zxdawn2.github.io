@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sci Tech on Dreambooker</title>
+    <title>Sci Tech on </title>
     <link>https://zxdawn2.github.io/categories/sci-tech/</link>
-    <description>Recent content in Sci Tech on Dreambooker</description>
+    <description>Recent content in Sci Tech on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Mon, 08 Jul 2019 15:16:32 +0800</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Test_Sci</title>
-      <link>https://zxdawn2.github.io/2019/07/08/Test_Sci/</link>
+      <link>https://zxdawn2.github.io/2019/07/08/test_sci/</link>
       <pubDate>Mon, 08 Jul 2019 15:16:32 +0800</pubDate>
       
-      <guid>https://zxdawn2.github.io/2019/07/08/Test_Sci/</guid>
+      <guid>https://zxdawn2.github.io/2019/07/08/test_sci/</guid>
       <description> Add Comments : )
 Add TraVis : )
 Versions    Version Action Time     1.0 Init 2019-07-09    </description>

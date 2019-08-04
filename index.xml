@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dreambooker</title>
+    <title></title>
     <link>https://zxdawn2.github.io/</link>
-    <description>Recent content on Dreambooker</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Mon, 08 Jul 2019 16:36:48 +0800</lastBuildDate>
@@ -13,19 +13,19 @@
     
     <item>
       <title>Test_blog</title>
-      <link>https://zxdawn2.github.io/2019/07/08/Test_blog/</link>
+      <link>https://zxdawn2.github.io/2019/07/08/test_blog/</link>
       <pubDate>Mon, 08 Jul 2019 16:36:48 +0800</pubDate>
       
-      <guid>https://zxdawn2.github.io/2019/07/08/Test_blog/</guid>
+      <guid>https://zxdawn2.github.io/2019/07/08/test_blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test_Sci</title>
-      <link>https://zxdawn2.github.io/2019/07/08/Test_Sci/</link>
+      <link>https://zxdawn2.github.io/2019/07/08/test_sci/</link>
       <pubDate>Mon, 08 Jul 2019 15:16:32 +0800</pubDate>
       
-      <guid>https://zxdawn2.github.io/2019/07/08/Test_Sci/</guid>
+      <guid>https://zxdawn2.github.io/2019/07/08/test_sci/</guid>
       <description> Add Comments : )
 Add TraVis : )
 Versions    Version Action Time     1.0 Init 2019-07-09    </description>
