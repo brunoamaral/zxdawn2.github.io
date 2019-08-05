@@ -10,7 +10,7 @@ hasCJKLanguage             = true
 summaryLength              = 200
 Paginate                   = 5
 
-theme                      = ["AllinOne", "hugo-orbit-theme"]
+theme                      = ["AllinOne", "orbit"]
 #theme                      = "AllinOne"
 
 [outputs]
@@ -18,7 +18,7 @@ home = [ "HTML", "RSS", "JSON" ]
 section = [ "HTML", "RSS"]
 taxonomy = [ "HTML", "RSS"]
 
-[outputFormats.hugo-orbit-theme]
+[outputFormats.orbit]
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
@@ -28,15 +28,11 @@ title                      = "Dreambooker"
 pygmentsuseclasses         = true
 disablePathToLower         = true 
 
-[permalinks]
-  sci-tech                 = ":year/:month/:day/:slug/"
-  project                  = ":slug/"
-  blog                     = ":year/:month/:day/:slug/"
-  profile                  = ":slug/"
-  # sci-tech                 = "sci-tech/:year/:month/:day/:slug/"
-  # project                  = "project/:slug/"
-  # blog                     = "blog/:year/:month/:day/:slug/"
-  # profile                  = "profile/:slug/"
+#[permalinks]
+# sci-tech                 = ":year/:month/:day/:slug/"
+# project                  = ":slug/"
+# blog                     = ":year/:month/:day/:slug/"
+# profile                  = ":slug/"
 
 [taxonomies]
   tag                      = "tags"
